@@ -10,8 +10,9 @@ Vue wrapper of [emitting-analog-clock](https://moritanian.github.io/emitting-ana
 <p align="center"><a href="https://moritanian.github.io/emitting-analog-clock">DEMO</a></p>
 
 ## Props
+
 | Prop    | Type | Default | Usage  |
-| ------  | ---- | --- | ----- | ------ |
+| ------  | ---- | --- | ------ |
 | id   | String | 'clock' | id attribute of the dom element |
 | shape | String | 'circle' | Shape of the clock. 'square' and 'circle' can be selected. |
 | size | Number | 200 | Size of the clock in pixels. |
