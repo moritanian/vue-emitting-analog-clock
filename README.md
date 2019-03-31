@@ -1,8 +1,10 @@
 vue-emitting-analog-clock
 ========
 
+[![npm version](https://badge.fury.io/js/vue-emitting-analog-clock.svg)](https://badge.fury.io/js/vue-emitting-analog-clock)
+
 #### emitting analog clock component for vuejs ####
-Vue wrapper of [emitting-analog-clock](https://moritanian.github.io/emitting-analog-clock)
+Vue wrapper of [emitting-analog-clock](https://github.com/moritanian/emitting-analog-clock)
 
 <a href="https://moritanian.github.io/emitting-analog-clock"><img src="https://moritanian.github.io/emitting-analog-clock/sample.png"/></a>
 

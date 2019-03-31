@@ -2,6 +2,11 @@
   "name": "vue-emitting-analog-clock",
   "version": "1.0.0",
   "description": "Emitting analog clock component for vuejs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moritanian/vue-emitting-analog-clock.git"
+  },
+  "homepage": "https://github.com/moritanian/vue-emitting-analog-clock",
   "main": "dist/vue-emitting-analog-clock.umd.js",
   "module": "dist/vue-emitting-analog-clock.esm.js",
   "unpkg": "dist/vue-emitting-analog-clock.min.js",
